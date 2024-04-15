@@ -8,10 +8,12 @@ Read our final project blog article [here] to learn more about the development p
 
  Author(s) LinkedIn
 Connect with the authors on LinkedIn:
-- [Author 1](Hass4all)
-- [Author 2](Amer Joutey)
+[Author 1](Hass4all)[
+https://www.linkedin.com/in/hassan-rami-chalf-105165304?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BgIzV3%2Fn3Tu6agHIylQm%2FaA%3D%3D
+[Author 2](Amer Joutey)
+https://www.linkedin.com/in/amer-t-87666224a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Blz%2BpRI6ZQKSksN1JgRVs5Q%3D%3D 
 
- Installation
+Installation
 To install Taxibook, follow these steps:
 1. Clone the repository to your local machine.
 2. Install the necessary dependencies using `npm install`.
