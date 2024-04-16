@@ -2,8 +2,7 @@ Project Name:  Taxibook
 
 Introduction
 Taxibook is a convenient taxi booking application that allows users to easily book rides to their desired destinations. Visit our deployed site 
-[
-](https://tinyurl.com/Taxibookuk)
+https://tinyurl.com/Taxibookuk
 experience seamless taxi booking.
 
 Final Project Blog Article
