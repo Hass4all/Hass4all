@@ -2,11 +2,12 @@ Project Name:  Taxibook
 
 Introduction
 Taxibook is a convenient taxi booking application that allows users to easily book rides to their desired destinations. Visit our deployed site www.taxibook.com experience seamless taxi booking.
-[
-](https://new.express.adobe.com/published/urn:aaid:sc:EU:87b79f2e-22f0-4662-9dbb-0b320192e872?promoid=Y69SGM5H&mv=other)Final Project Blog Article
+(https://new.express.adobe.com/published/urn:aaid:sc:EU:87b79f2e-22f0-4662-9dbb-0b320192e872?promoid=Y69SGM5H&mv=other)
+
+Final Project Blog Article
 Read our final project blog article [here] to learn more about the development process and key features of Taxibook.
 
- Author(s) LinkedIn
+Author(s) LinkedIn
 Connect with the authors on LinkedIn:
 [Author 1](Hass4all)[
 https://www.linkedin.com/in/hassan-rami-chalf-105165304?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BgIzV3%2Fn3Tu6agHIylQm%2FaA%3D%3D
